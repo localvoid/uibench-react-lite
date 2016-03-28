@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import {Main} from './ui/main';
 
-uibench.init('React-lite', '0.0.18');
+uibench.init('React-lite', '0.15.6');
 
 document.addEventListener('DOMContentLoaded', function(e) {
   var container = document.querySelector('#App');
